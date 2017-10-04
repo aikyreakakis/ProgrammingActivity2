@@ -1,0 +1,33 @@
+1. name input: Sarah
+    output: Hello, Sarah it is really nice to meet you!
+    Have you ever visited the Philippines before? Yes or No?: Yes
+    Great! I can give you ideas of what you could do while you're here
+    Would you like to visit the beautiful islands or do community service while you are here?: beautiful islands
+    Great! I will sign you up for a tour of the gorgeous islands of the Philippines, along with many different activities!
+    You had a wonderful tour of the islands of the Philippines and captured amazing pictures that all your friends were jealous of! You are already looking forward to your next trip!
+    Thank you for using my adventure game!
+2. name_input: Amanda
+    output: Hello, Amanda it is really nice to meet you!
+    Have you ever visited the Philippines before? Yes or No?: No
+    That's okay! I will give you ideas of activities to keep you occupied and having fun while you're here!
+    Would you like to visit the beautiful islands or do community service while you are here?: community service
+    Awesome choice! I will sign you up with a specific organization that gives food to the hungry
+    You had a humbling experience doing community service in the Philippines. You fed many different people and you guys made an impact on each other's lives. You are planning on coming back to continue this wonderful organization! Great job!
+     Thank you for using my adventure game!
+3. name_input: Tony
+    output: Hello, Tony it is really nice to meet you!
+    Have you ever visited the Philippines before? Yes or No?: Yes
+    Great! I can give you ideas of what you could do while you're here
+    Would you like to visit the beautiful islands or do community service while you are here?: community service
+    Awesome choice! I will sign you up with a specific organization that gives food to the hungry
+    You had a humbling experience doing community service in the Philippines. You fed many different people and you guys made an impact on each other's lives. You are planning on coming back to continue this wonderful organization! Great job!
+     Thank you for using my adventure game!
+4. name_input: Shane
+    output: Hello, Shane it is really nice to meet you!
+    Have you ever visited the Philippines before? Yes or No?: No
+    That's okay! I will give you ideas of activities to keep you occupied and having fun while you're here!
+    Would you like to visit the beautiful islands or do community service while you are here?: beautiful islands
+    Great! I will sign you up for a tour of the gorgeous islands of the Philippines, along with many different activities!
+    You had a wonderful tour of the islands of the Philippines and captured amazing pictures that all your friends were jealous of! You are already looking forward to your next trip!
+    Thank you for using my adventure game!
+

@@ -1,0 +1,22 @@
+Welcome the user to the adventure game
+Print out: you are a tourist visiting the Philippines. You encounter a guy named Mark and he asks you:
+
+1. Ask the user for their name
+2. Output the name every time you want to address them.
+3. Ask if they ever visited the Philippines before.
+4. The answer should be yes or no.
+5. If the answer is yes:
+    print out "Great! I can give you ideas of what you could do while you're here!"
+   If the answer is no:
+    print out "That's okay! I will give you ideas of activities to keep you occupied and having fun while you're here!"
+6. Ask the user if they would like to visit the beautiful islands or do community service
+7. if beautiful islands
+    print out: Great! I will sign you up for a tour of the gorgeous islands of the Philippines, along with many different activities!
+8. if community service
+    print out: Awesome choice! I will sign you up with a specific organization that gives food to the hungry
+9. print out the output at the end of the trip
+    if user chose the beautiful islands
+        print out: You had a wonderful tour of the islands of the Philippines and captured amazing pictures that all your friends were jealous of! You are already looking forward to your next trip!
+    if user chose community service
+        print out: You had a humbling experience doing community service in the Philippines. You fed many different people and you guys made an impact on each other's lives. You are planning on coming back to continue this wonderful organization! Great job!
+10. Print a thank you for using the adventure game
